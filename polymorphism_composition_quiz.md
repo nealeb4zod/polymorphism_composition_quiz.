@@ -4,9 +4,13 @@
 
 1. What does the ___word___ 'polymorphism' mean?
 
+The condition of occurring in several different forms.
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 
+
+
 3. What can we use to implement polymorphism in Java?
+Interfaces
 
 4. How many 'forms' can an object take when using polymorphism?
 
